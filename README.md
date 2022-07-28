@@ -40,15 +40,11 @@ Soon !!!
 
 Top view
 
-
-Soon !!!
-
+![Screenshot 2022-07-27 195700](https://user-images.githubusercontent.com/82454371/181495239-58652e2b-e646-42fb-aef0-bad6bf57d5b6.png)
 
 Bottom view
 
-
-Soon !!!
-
+![Screenshot 2022-07-27 195617](https://user-images.githubusercontent.com/82454371/181495267-caf77521-7837-4921-9a71-fe4b460de04f.png)
 
 
 ## BOM
@@ -81,8 +77,15 @@ Soon !!!
 
 ![51kXivjBTuL _AC_SX425_](https://user-images.githubusercontent.com/82454371/150636116-4ee8e17d-2fe3-4c75-84c9-792c8be12903.jpg)
 
-
 you can build by your self, wiring instruction can by found in the google search engine.
+
+Note :
+
+Tip - VCC
+
+Ring - TX
+
+Sleeve - GROUND
 
 
 ## Case
