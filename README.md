@@ -37,8 +37,7 @@ Designer and maintainer: [sandipratama/nendezkombet](https://github.com/nendezko
 
 
 ![IMG_E0225](https://user-images.githubusercontent.com/82454371/181727217-5c7a5eb6-eed3-4aac-b19c-c6cd6090f2f0.JPG)
-![IMG_E0231](https://user-images.githubusercontent.com/82454371/181727261-aae71024-72e2-41a2-b004-442f107a5531.JPG)
-![IMG_E0233](https://user-images.githubusercontent.com/82454371/181727273-33d6a100-eff5-4c76-a92e-6eb743b40c56.JPG)
+
 ![IMG_0154](https://user-images.githubusercontent.com/82454371/181727372-c23f0387-d0a2-4c00-81cf-646f6761c3d1.JPG)
 
 
@@ -48,11 +47,11 @@ Designer and maintainer: [sandipratama/nendezkombet](https://github.com/nendezko
 
 Top view
 
-![Screenshot 2022-07-27 195700](https://user-images.githubusercontent.com/82454371/181495239-58652e2b-e646-42fb-aef0-bad6bf57d5b6.png)
+![IMG_E0231](https://user-images.githubusercontent.com/82454371/181727261-aae71024-72e2-41a2-b004-442f107a5531.JPG)
 
 Bottom view
 
-![Screenshot 2022-07-27 195617](https://user-images.githubusercontent.com/82454371/181495267-caf77521-7837-4921-9a71-fe4b460de04f.png)
+![IMG_E0233](https://user-images.githubusercontent.com/82454371/181727273-33d6a100-eff5-4c76-a92e-6eb743b40c56.JPG)
 
 
 ## BOM
