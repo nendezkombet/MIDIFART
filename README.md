@@ -84,18 +84,18 @@ Bottom view
 
 ![51kXivjBTuL _AC_SX425_](https://user-images.githubusercontent.com/82454371/150636116-4ee8e17d-2fe3-4c75-84c9-792c8be12903.jpg)
 
-you can build by your self, wiring instruction can by found in the google search engine.
+you can build by your self, wiring instruction can by found out there.
 
-Note :
+Male TRS jack to female TRS jack socket wiring  :
 
-Tip - VCC
+|Male|Female|
+|:---|:---|
+|Tip | VCC |
+|Ring | TX |
+|Sleeve  | GROUND |
 
-Ring - TX
 
-Sleeve - GROUND
-
-
-Because there are a few Promini variant, so for this project i recomended using compatible Promini variant and pinout configuration like in picture below :
+Because there are a few Promini variant, so for this project i recomended using compatible Promini variant and pinout configuration like in the picture below :
 
 ![ha-7006-027-2](https://user-images.githubusercontent.com/82454371/181730032-678429c9-06e7-40b8-9d09-194ea29de846.jpg)
 
