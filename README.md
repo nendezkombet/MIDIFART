@@ -95,13 +95,20 @@ Ring - TX
 Sleeve - GROUND
 
 
+Because there are a few Promini variant, so for this project i recomended using compatible Promini variant and pinout configuration like in picture below :
+
+![ha-7006-027-2](https://user-images.githubusercontent.com/82454371/181730032-678429c9-06e7-40b8-9d09-194ea29de846.jpg)
+
+If you decide use Arduino Promini 3.3v or 5v you will need USB to TTL converter like in picture below :
+
+"DO NOT FORGET CHECKING THE VOLTAGE SWITCH MUST BE MATCHING WITH YOUR MCU OPERATING VOLTAGE !!!"
+
+![ft232rl-ftdi-usb-zu-ttl-serial-adapter-modul-33v-5v](https://user-images.githubusercontent.com/82454371/181732610-d8e49c6d-bbf7-47dc-a0cb-466c89548d70.jpg)
+
+
 ## Case
 
-Stacked acrylic case 
-
-
-Soon !!!
-
+Use 3mm acrylic plate like pictures above.
 
 ## Assembly Guide
 
