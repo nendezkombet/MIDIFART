@@ -1,4 +1,4 @@
-Assembly guide for MIDIFART.
+MIDIFART Assembly guide.
 
 1. Prepare all the components and see PCB legend below for components pacement
 2. solder pin header first ( just pin header without MCU )
