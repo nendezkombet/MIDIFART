@@ -61,13 +61,9 @@ void setup() {
   button.begin();
 }
 
-uint8_t gHue = 0; // rotating "base color" used synelon leds animation
-
 void loop() {
 
   Control_Surface.loop();
-  FastLED.delay(1000/FRAMES_PER_SECOND); 
-  EVERY_N_MILLISECONDS( 20 ) { gHue++; } // slowly cycle the "base color" through the rainbow
   
   unsigned long currentMillis = millis(); 
   buttonState = selector.update() == Button::Falling;        // read the pushbutton selector:
