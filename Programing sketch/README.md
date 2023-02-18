@@ -2,6 +2,7 @@ Before you upload the code into controller you need install some arduinoIDE libr
 library requirements :
 
 - Control Surface library https://github.com/tttapa/Control-Surface
+- USB MIDI liibrary https://github.com/arduino-libraries/MIDIUSB
 - Fastled libray
 - NewPing library if use ultrasonic sensor
 
